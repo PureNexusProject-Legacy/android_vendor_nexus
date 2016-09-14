@@ -21,6 +21,7 @@ PRODUCT_PACKAGES += \
     Launcher3 \
     LiveWallpapersPicker
 
-# Busybox
+# Custom Packages
 PRODUCT_PACKAGES += \
-    Busybox
+    Busybox \
+    PureNexusSettings
